@@ -105,8 +105,8 @@
             <div class="content">
                 <div class="row main-product">
                   <div class="main-product" >
-                    <div class="">
-                      <img height="100%" src="{{url('public/img/iphone7-red.png')}}" alt="..."><br><br>
+                    <div class="row">
+                      <img width="70%" src="{{url('public/img/iphone7-red.png')}}" alt="..."><br><br>
                       <div class="caption">
                         <div class="progress" style="height:5px;">
                           <div id="progressbar" class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
