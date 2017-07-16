@@ -114,10 +114,10 @@
                         </div>
                         <span id="timer"></span>
                         <h3>Apple iPhone 7 128GB (Red)<br><text id="product-price">HK$<text id="product-price-amount">0.00</text></text></h3>
-                        <p>Retail Price: HK$7,388.00</p>
+                        <!--<p>Retail Price: HK$7,388.00</p>-->
                         <p>
                             <a href="{{(Auth::check() ? '#' : url('login'))}}" id="bid" class="btn btn-success" role="button">BID NOW &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1 Credit</a> <br><br>
-                            <a href="#" class="btn btn-default" role="button">BUY IT NOW FOR HK$3,000</a>
+                            <a href="#" class="btn btn-default" role="button">BUY IT NOW FOR HK$7,388.00</a>
                         </p>
                       </div>
                     </div>
